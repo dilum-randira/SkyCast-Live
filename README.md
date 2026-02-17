@@ -1,4 +1,4 @@
-bghgh# SkyCast Live 🌦️📡
+gbghgh# SkyCast Live 🌦️📡
 
 SkyCast Live is a real-time weather broadcasting web app built with **React + Vite + TypeScript**, showing current weather and forecasts using a free weather API.
 
