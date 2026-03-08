@@ -1,6 +1,5 @@
 # SkyCast Live 🌦️📡
 SkyCast Live is a real-time weather broadcasting web app built with **React + Vite + TypeScript**, showing current weather and forecasts using a free weather API.
-but remember no one can stop me , no matter how the tried 
 ## Features
 - Live weather by city search + current location
 - Current conditions + 5-day forecast
