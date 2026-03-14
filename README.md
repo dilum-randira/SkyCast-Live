@@ -9,3 +9,4 @@ SkyCast Live is a real-time weather broadcasting web app built with **React + Vi
 ```bash
 npm install
 npm run dev
+hsgd
