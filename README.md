@@ -13,7 +13,7 @@ hsgdafc
 sac
 asf
 dvssv
-asc
+ascnj
 acssdv
 acsb b gh
 kn
