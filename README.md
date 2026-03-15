@@ -11,7 +11,7 @@ npm install
 npm run devnm k jl
 hsgdafc
 sac
-asf
+asfnk 
 dvssv
 ascnj
 acssdv
