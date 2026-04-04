@@ -9,8 +9,3 @@ SkyCast Linbve is a real-time weather broadcasting web app built with **React + 
 ```bash
 npm install
 npm run dev
-fswv
-asca
-ascas
-ascc
-acac
